@@ -13,7 +13,7 @@
 - 🌱 Currently learning **LLMs, RAG, FastAPI, React, and MLOps**.
 - 💼 Seeking **AI/ML, Python Developer, and Full Stack Internship** opportunities.
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Computer Vision, and NLP**.
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: rathodrahul9091@gmail.com
 
 ---
 
