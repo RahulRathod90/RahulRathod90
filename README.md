@@ -1,175 +1,95 @@
-# 👋 Hi, I'm Rahul Rathod
+<h1 align="center">Hi, I'm Rahul Rathod 👋</h1>
 
-### AI/ML Developer | Python Developer | Generative AI Enthusiast
+<p align="center">
+  <b>AI/ML Engineer in the making · Final-year B.E. in Artificial Intelligence</b><br/>
+  I build multimodal AI systems and ship them as working products.
+</p>
 
-🎓 Final-Year B.E. Artificial Intelligence & Machine Learning Student  
-📍 Karnataka, India  
-💼 Open to AI/ML, Generative AI & Python Full-Stack Internships
+<p align="center">
+  📍 Mangaluru, Karnataka, India &nbsp;·&nbsp;
+  📧 <a href="mailto:rathodrahul9091@gmail.com">rathodrahul9091@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/rahul-rathod123/">LinkedIn</a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/rahul-rathod123)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/RahulRathod90)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rathodrahul9091@gmail.com)
-
----
-
-## 🚀 About Me
-
-I'm a final-year Artificial Intelligence and Machine Learning engineering student passionate about developing intelligent applications that solve real-world problems.
-
-My interests lie at the intersection of **Artificial Intelligence, Generative AI and Full-Stack Software Development**.
-
-- 🤖 Exploring Generative AI, LLMs, RAG and AI Agents.
-- 🧠 Building practical Machine Learning and Deep Learning applications.
-- 👁️ Interested in Computer Vision, NLP and multimodal AI.
-- ⚡ Developing backend applications using Python, Flask and FastAPI.
-- 🌐 Building interactive web applications using React and modern web technologies.
-- 🔬 Working on multimodal AI content authentication and detection systems.
-
-**My mission:** Transform AI research and machine-learning models into reliable, practical and user-friendly software products.
+<p align="center">
+  <b>Open to:</b> Machine Learning Engineer · Software Engineer · AI/ML internships
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## About
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+Final-year Artificial Intelligence student at PA College of Engineering (VTU). I like the full path from model to product: training and evaluating the model, wrapping it in an API, and putting a usable interface on top.
 
-### AI / Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Areas:** Machine Learning · Deep Learning · Computer Vision · NLP · Generative AI · LLMs · RAG
-
-### Backend & Frontend Development
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+- 🔬 Built a multimodal system that detects AI-generated text, images, audio, and video
+- 🏆 Top 6 finalist, VibeXathon 1.0 (24-hour state-level hackathon, 2026)
+- 🌊 Built a coastal flood prediction and emergency response system at Singularity 2026 (national-level hackathon)
+- 🌱 Currently deepening: LLMs, RAG, AI agents, Docker, MLOps
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 1. AUTHENTIQ AI — Multimodal Content Authentication
+### 🛡️ Veritas Neural: Multimodal AI-Content Detection
+Detects AI-generated or manipulated content across text, images, audio, and video, then fuses the signals into one authenticity score. **Top 6 at VibeXathon 1.0.**
 
-An AI-powered system designed to analyze digital content across multiple modalities and identify potentially manipulated or synthetic media.
+- **Text:** RoBERTa · **Image:** SigLIP · **Audio:** Librosa features · **Video:** frame-level analysis
+- Served through FastAPI with a React + Vite front end, containerised with Docker
+- **Stack:** `Python` `PyTorch` `Hugging Face` `OpenCV` `FastAPI` `React` `Docker`
+- 🔗 [Repository](https://github.com/RahulRathod90/veritas-neural) <!-- confirm repo link -->
+<!-- Add one result line here, e.g. accuracy/F1 on a named dataset or inference time per file -->
 
-**Key Features**
-- Text authenticity analysis.
-- AI-generated and manipulated image detection.
-- Synthetic audio detection.
-- Video deepfake analysis.
-- Multimodal prediction fusion.
-- Interactive web dashboard and analysis reports.
+### 🌊 CoastGuard-AI: Coastal Flood Prediction & Emergency Response
+Predicts coastal flood risk and supports emergency response with a map-based dashboard. Built with teammate Manikantan U at **Singularity 2026**.
 
-**Tech Stack:** Python, PyTorch, OpenCV, FastAPI, React, TypeScript, SQLAlchemy.
+- ML-based flood prediction with GIS layers rendered in an interactive map
+- **Stack:** `Python` `Machine Learning` `React` `Vite` `React-Leaflet`
+- 🔗 [Repository](https://github.com/RahulRathod90/) <!-- add repo link -->
 
-### 2. Word Wizard Grader — Automatic Essay Evaluation
+### 🐍 DQN Snake AI: Reinforcement Learning Agent
+A Snake-playing agent trained with Deep Q-Networks, comparing DQN variants and adding an A\* safety shield to stop the agent from making fatal moves.
 
-An AI/NLP-powered application designed to evaluate written essays and provide structured feedback using linguistic and text-analysis techniques.
-
-**Key Features**
-- Automated essay evaluation.
-- NLP-based text analysis.
-- Vocabulary and coherence analysis.
-- Structured evaluation results.
-- Interactive web interface.
-
-**Tech Stack:** Python, Flask, React, TypeScript, NLP.
-
-### 3. Tea Leaf Disease Detection
-
-A deep-learning-based computer vision application for identifying tea leaf diseases from images.
-
-**Key Features**
-- Image preprocessing and classification.
-- EfficientNetV2-based feature extraction.
-- Multiple tea leaf disease categories.
-- Model evaluation and prediction.
-- Web-based prediction interface.
-
-**Tech Stack:** Python, TensorFlow, EfficientNetV2, OpenCV, Flask.
-
-### 4. KisanSahay — AI-Powered Agriculture Platform
-
-A web-based agriculture-focused project designed to make useful digital tools and information more accessible to farmers.
-
-**Focus:** AI applications, agriculture technology and user-friendly web development.
-
-**Project Demo:** Add your deployed website URL here.
+- **Stack:** `Python` `PyTorch` `Pygame`
+- 🔗 [Repository](https://github.com/RahulRathod90/DQN-Snake-AI)
+<!-- Add a short GIF of the agent playing; it makes this project far more memorable -->
 
 ---
 
-## 📚 Currently Exploring
+## Tech Stack
 
-| Domain | Learning Focus |
+| | |
 |---|---|
-| Generative AI | LLMs, Prompt Engineering, AI Agents |
-| AI Engineering | RAG, Model Serving, FastAPI |
-| Machine Learning | Model Evaluation, Deep Learning |
-| Full-Stack | React, REST APIs, Backend Development |
-| Deployment | Docker, Cloud Deployment, MLOps |
+| **Languages** | Python · Java · C · SQL · JavaScript |
+| **ML / AI** | PyTorch · TensorFlow · Hugging Face · Scikit-learn · OpenCV · Computer Vision · NLP · RAG |
+| **Backend & Web** | FastAPI · Flask · React · Vite · REST APIs |
+| **Tools** | Docker · Git · GitHub · Jupyter · Google Colab |
 
 ---
 
-## 📊 GitHub Statistics
+## Certifications
+
+- Oracle Agentic AI Certified Foundations Associate (Oracle University, 2026)
+- Deloitte Data Analytics Job Simulation (Forage, 2026)
+- Deloitte Cyber Job Simulation (Forage, 2026)
+- Mastering Tableau (Udemy, 2025)
+- Building RAG Apps Using MongoDB
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulRathod90&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRathod90&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RahulRathod90&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulRathod90&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRathod90&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🎯 Career Interests
-
-I'm actively looking for opportunities where I can learn, contribute and grow as a developer.
-
-- AI/ML Engineering Internships
-- Generative AI Internships
-- Python Developer Internships
-- Full-Stack Developer Internships
-
-I'm particularly interested in building production-oriented AI applications and working with engineering teams on real-world problems.
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, AI enthusiasts, recruiters and people working on innovative technology.
-
-📧 **Email:** rathodrahul9091@gmail.com
-
-💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/rahul-rathod123)
-
-🐙 **GitHub:** [Explore my repositories](https://github.com/RahulRathod90)
-
----
+## Let's Connect
 
 <p align="center">
-  <b>⭐ Explore my repositories, share ideas and let's build something impactful together!</b>
+  <a href="https://www.linkedin.com/in/rahul-rathod123/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rathodrahul9091@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <i>Learning continuously. Building consistently. Growing every day. 🚀</i>
-</p>
+<p align="center"><i>If you're hiring for ML or software roles, I'd love to talk.</i></p>
