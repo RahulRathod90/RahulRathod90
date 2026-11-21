@@ -8,7 +8,8 @@
 <p align="center">
   📍 Mangaluru, Karnataka, India &nbsp;·&nbsp;
   📧 <a href="mailto:rathodrahul9091@gmail.com">rathodrahul9091@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/rahul-rathod123/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/rahul-rathod123/">LinkedIn</a> &nbsp;·&nbsp;
+  🌐 <a href="https://xmnxcdn2-5173.inc1.devtunnels.ms/">Portfolio</a>
 </p>
 
 <p align="center">
@@ -88,6 +89,7 @@ A Snake-playing agent trained with Deep Q-Networks, comparing DQN variants and a
 ## Let's Connect
 
 <p align="center">
+  <a href="https://xmnxcdn2-5173.inc1.devtunnels.ms/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rahul-rathod123/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rathodrahul9091@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
